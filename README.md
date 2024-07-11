@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaureenMbugua
 - 👀 I am a budding Data Scientist. 
-- 🌱 I’m currently learning the foundational skills.
 
 
 <!---
