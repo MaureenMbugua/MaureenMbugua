@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaureenMbugua
-- 👀 I am a budding Data Scientist. 
-- (Recently mostly been using a work GitHub account)
+- 👀 I am a budding Data Professional. 
 
 <!---
 MaureenMbugua/MaureenMbugua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
